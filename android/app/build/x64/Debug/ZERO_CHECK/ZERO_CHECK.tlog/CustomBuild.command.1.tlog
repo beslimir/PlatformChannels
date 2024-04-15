@@ -1,0 +1,10 @@
+^C:\USERS\MARIN\ANDROIDSTUDIOPROJECTS\FLUTTER_WITH_NATIVE_CODE\ANDROID\APP\BUILD\CMAKEFILES\3F48979A91F21B28A40F0146C4C48FBB\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app -BC:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

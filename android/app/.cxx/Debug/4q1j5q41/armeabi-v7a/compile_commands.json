@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/.cxx/Debug/4q1j5q41/armeabi-v7a",
+  "command": "C:\\Users\\Marin\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/Marin/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Marin/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DplatformTest_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\platformTest.dir\\src\\main\\cpp\\platformTest.cpp.o -c C:\\Users\\Marin\\AndroidStudioProjects\\flutter_with_native_code\\android\\app\\src\\main\\cpp\\platformTest.cpp",
+  "file": "C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/src/main/cpp/platformTest.cpp"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/build/CMakeFiles/platformTest.dir
+C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/android/app/build/CMakeFiles/ZERO_CHECK.dir

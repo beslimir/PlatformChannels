@@ -1,0 +1,5 @@
+# ninja log v5
+1	727	734903041	CMakeFiles/platformTest.dir/src/main/cpp/platformTest.cpp.o	f85418a7b4c9c6a8
+730	880	734903041	C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/build/app/intermediates/cxx/Debug/4q1j5q41/obj/arm64-v8a/libplatformTest.so	879edbedde4add52
+3	634	734903158	CMakeFiles/platformTest.dir/src/main/cpp/platformTest.cpp.o	f85418a7b4c9c6a8
+634	739	734903158	C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/build/app/intermediates/cxx/Debug/4q1j5q41/obj/arm64-v8a/libplatformTest.so	879edbedde4add52

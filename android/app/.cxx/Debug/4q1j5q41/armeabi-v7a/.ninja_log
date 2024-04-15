@@ -1,0 +1,5 @@
+# ninja log v5
+0	612	734903042	CMakeFiles/platformTest.dir/src/main/cpp/platformTest.cpp.o	82f57b872f29177d
+614	740	734903043	C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/build/app/intermediates/cxx/Debug/4q1j5q41/obj/armeabi-v7a/libplatformTest.so	5377c75231fd2297
+3	594	734903159	CMakeFiles/platformTest.dir/src/main/cpp/platformTest.cpp.o	82f57b872f29177d
+594	698	734903159	C:/Users/Marin/AndroidStudioProjects/flutter_with_native_code/build/app/intermediates/cxx/Debug/4q1j5q41/obj/armeabi-v7a/libplatformTest.so	5377c75231fd2297
